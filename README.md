@@ -1,5 +1,5 @@
 # Credits
-PantipScraper was created by [Chanapa Chareesan].
+PantipScraper was created by Chanapa Chareesan.
 
 # PantipScraper
 PantipScraper is a Python tool for scraping data from Pantip, a popular Thai online forum.
